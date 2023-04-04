@@ -1,15 +1,14 @@
-# QAPage-Schema-Generator
+# QAPage Schema Generator
 The ***[QAPage Schema Generator](https://meetanshi.com/schema-generator/qapage)*** is a free tool by Meetanshi that helps you create structured data for your Q&A pages. Structured data is a way of describing the information on your website in a way that search engines can understand. This can help your website rank higher in search results and attract more visitors.
-
 
 Using the ***QAPage Schema Generator*** is a simple and effective way to improve the visibility of your Q&A pages in search results. By adding structured data to your website, you can help search engines understand your business better and provide your website with a better chance of ranking higher in search results.
 
 ***Here are the steps on how to use Meetanshi’s QAPage Schema Generator:***
-Step 1: Go to the Meetanshi’s QAPage Schema Generator.
-Step 2: Fill in the fields.
-Step 3: Click on the “Generate”  button.
-Step 4: You can copy the generated schema.
-Step 5: Paste the copied schema to your page. 
+* Step 1: Go to the Meetanshi’s QAPage Schema Generator.
+* Step 2: Fill in the fields.
+* Step 3: Click on the “Generate”  button.
+* Step 4: You can copy the generated schema.
+* Step 5: Paste the copied schema to your page. 
 
 ## Here are some of the benefits of using the QAPage Schema Generator:
 * Improved search engine ranking: Structured data can help your website rank higher in search results. This is because search engines use structured data to understand the content of your website and to determine how relevant your website is to a user's search query.
